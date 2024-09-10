@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayveer-kumar
 - 👀 I’m interested in ... C++,java and javascript
 - 🌱 I’m currently learning ... Javascript and c++ advance
-- 💞️ I’m looking to collaborate on ...  I’m looking for opportunities to contribute to open-source projects that focus on frontent and machine Backend, as well as collaborate with teams working on innovative web technologies. I’m also open to mentoring newcomers in the field of software development.
+- 💞️ I’m looking to collaborate on ...  I’m looking for opportunities to contribute to open-source projects that focus on frontent and  Backend, as well as collaborate with teams working on innovative web technologies. I’m also open to mentoring newcomers in the field of software development.
 
 - 📫 How to reach me ... Gmail(jayveerk394@gmail.com),Instagram(@jasan_0987)
 - 😄 Pronouns: ... Jasan
